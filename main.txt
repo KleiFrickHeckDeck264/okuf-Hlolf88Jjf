@@ -4,3 +4,5 @@
 [+] Player: DEADINSIDE... || ID:  STEAM_1:0:593648184
 [+] Player: Magnet-Ylva || ID:  STEAM_1:0:593212710
 [+] Player: Virsila || ID:  STEAM_1:0:593585395
+[+] Player: pazdan$ || ID:  STEAM_1:1:593704465
+[+] Player: KEKW || ID:  STEAM_1:1:593160182
