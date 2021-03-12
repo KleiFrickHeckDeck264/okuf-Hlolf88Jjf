@@ -33,3 +33,6 @@ STEAM_0:0:531822779
 [+] Player: JoNaS_BLaZe || ID:  STEAM_1:1:499798364
 [+] Player: !17!-Perfecto..SkinSwipe || ID:  STEAM_1:1:567761889
 [+] Player: Forester || ID:  STEAM_1:0:479863861
+[+] Player: Lil Globglogabgalab  ID:  STEAM_1:1:588238805
+[+] Player: S1lent  ID:  STEAM_1:1:595018636
+[+] Player: MeGaKiLLER || ID:  STEAM_1:1:545502596
